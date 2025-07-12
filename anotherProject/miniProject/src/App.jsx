@@ -11,7 +11,7 @@ function App() {
     const w = parseFloat(width);
     if (!isNaN(l) && !isNaN(w)) {
       console.log('Calculating area...');
-      return l * w;
+      return l *w;
     }
     return 0;
   }
