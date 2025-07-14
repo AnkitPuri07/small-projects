@@ -1,1 +1,6 @@
 @import "tailwindcss";
+.container{
+  background-color: rgb(67, 103, 103);
+  height: 500px;
+  width: 70%;
+}
